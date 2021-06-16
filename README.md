@@ -11,7 +11,7 @@ Vine = 'Y'</br>
 |           60|           34|56.666666666666664|
 
 Vine = 'N'</br>
-Total_Reviews|5Star_Reviews|   5_Star_Percent|
+|Total_Reviews|5Star_Reviews|   5_Star_Percent|
 |-------------+-------------|-----------------|
 |        14477|         8212|56.72445948746287
 
