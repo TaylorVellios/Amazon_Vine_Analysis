@@ -21,7 +21,7 @@ The table that we will be looking at for the remainder of this task is the vine_
 
 </br>
 Since we are only concerned with reviews that are deemed "helpful" (>= 20 votes), the details for our new dataset are as follows:</br>
-#### *How many reviews in each population? (Vine: Y | Vine: N)*
+#### *How many reviews in each population? (Vine: Y | Vine: N) *
 * Vine Reviews: 60
 * Non-Vine Reviews: 14,477
 
@@ -34,7 +34,7 @@ Since we are only concerned with reviews that are deemed "helpful" (>= 20 votes)
 * Non-Vine Reviews: 56.72%
 
 Using some clever SQL, we can get the outputs below:</br>
-````
+````<SQL>
 SELECT COUNT(review_id) Total_Reviews, COUNT(case when star_rating = 5 then 1 end) as Five_Star_Reviews,
 CAST(COUNT(case when star_rating = 5 then 0 end) AS FLOAT)/CAST(COUNT(review_id) AS FLOAT)*100 as Five_Star_Percent
 	FROM vine_table 
