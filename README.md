@@ -2,7 +2,10 @@
 ETL and Analysis on Amazon Review Data using Postgres, PySpark, and NLTK
 
 # Overview
-
+Comparing the product reviews for Musical Instruments on Amazon from users part of the Vine program and normal consumers.</br>
+Is there a noticeable difference in the star-rating distribution between these two groups of reviewers?
+<br></br>
+<hr>
 # Results
 
 Vine = 'Y'</br>
