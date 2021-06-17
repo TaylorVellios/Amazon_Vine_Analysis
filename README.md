@@ -94,10 +94,12 @@ Immediately we can see the glaring difference between the 1.6% Negative Review %
 
 Using R. we can see a significant difference in distribution in the 1-Star to 4-Star range between these two reviewer groups:</br>
 Vine: Y</br>
+
 ![vinesY](https://user-images.githubusercontent.com/14188580/122311154-2e006380-ced7-11eb-8b69-5d002f55512d.png)
 
 </br>
 Vine: N</br>
+
 ![vinesN](https://user-images.githubusercontent.com/14188580/122311161-322c8100-ced7-11eb-945a-aed83d0625e8.png)
 
 </br>
