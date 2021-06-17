@@ -104,6 +104,7 @@ Vine: N</br>
 
 </br>
 The key takeaways:
+
 * While 5-Star reviews are evenly spread, it is significantly more likely that a Non-Vine reviewer would leave a 1-Star Review
 * Vine Reviews trend logarithmically upwards to 5-Stars, whereas Non-Vine reviewers are relatively flat before a large spike at 5-Stars
 
