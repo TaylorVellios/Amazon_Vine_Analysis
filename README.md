@@ -22,7 +22,7 @@ The table that we will be looking at for the remainder of this task is the vine_
 </br>
 Since we are only concerned with reviews that are deemed "helpful" (>= 20 votes), the details for our new dataset are as follows:</br>
 
-#### *How many reviews in each population? (Vine: Y | Vine: N) *
+#### *How many reviews in each population? (Vine: Y | Vine: N)*
 * Vine Reviews: 60
 * Non-Vine Reviews: 14,477
 
